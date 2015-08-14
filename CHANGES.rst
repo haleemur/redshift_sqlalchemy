@@ -7,6 +7,8 @@
   (`Issue #15 <https://github.com/graingert/redshift_sqlalchemy/pull/15>`_)
 - Default to SSL with hardcoded AWS Redshift CA.
   (`Issue #20 <https://github.com/graingert/redshift_sqlalchemy/pull/20>`_)
+- Explicitly require SQLAlchemy >= 0.9.2 for 'dialect_options'.
+  (`Issue #13 <https://github.com/graingert/redshift_sqlalchemy/pull/13>`_)
 
 
 0.1.2 (2015-08-11)
